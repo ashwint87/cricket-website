@@ -1,12 +1,42 @@
 {
-  "3362": "Shubman Gill",
-  "138": "Joe Root",
-  "3734": "Harry Brook",
-  "284": "Jasprit Bumrah",
-  "70": "Kagiso Rabada",
-  "190": "Pat Cummins",
-  "55": "Ravindra Jadeja",
-  "8": "Babar Azam",
-  "158": "Ben Stokes",
-  "6478": "Marco Jansen"
+  "3362": {
+    "name": "Shubman Gill",
+    "image": "https://cdn.sportmonks.com/images/cricket/players/2/3362.png"
+  },
+  "138": {
+    "name": "Joe Root",
+    "image": "https://cdn.sportmonks.com/images/cricket/players/10/138.png"
+  },    
+  "3734": {
+    "name": "Harry Brook",
+    "image": "https://cdn.sportmonks.com/images/cricket/players/22/3734.png"
+  },
+  "284": {
+    "name": "Jasprit Bumrah",
+    "image": "https://cdn.sportmonks.com/images/cricket/players/28/284.png"
+  },
+  "70": {
+    "name": "Kagiso Rabada",
+    "image": "https://cdn.sportmonks.com/images/cricket/players/6/70.png"
+  },
+  "190": {
+    "name": "Pat Cummins",
+    "image": "https://cdn.sportmonks.com/images/cricket/players/30/190.png"
+  },
+  "55": {
+    "name": "Ravindra Jadeja",
+    "image": "https://cdn.sportmonks.com/images/cricket/players/23/55.png"
+  },
+  "8": {
+    "name": "Babar Azam",
+    "image": "https://cdn.sportmonks.com/images/cricket/players/8/8.png"
+  },
+  "158": {
+    "name": "Ben Stokes",
+    "image": "https://cdn.sportmonks.com/images/cricket/players/30/158.png"
+  },
+  "6478": {
+    "name": "Marco Jansen",
+    "image": "https://cdn.sportmonks.com/images/cricket/players/14/6478.png"
+  }
 }
